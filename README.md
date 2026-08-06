@@ -162,7 +162,7 @@ Student-Marks-Score-Prediction/
 
 ## 🧰 Installation Guide
 
-Follow these steps to run the project on your own machine.
+Follow these steps to run the project on your machine.
 
 ### 1. Prerequisites
 
